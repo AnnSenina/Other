@@ -8,7 +8,7 @@
   - Войдите через Яндекс или соцсети, разрешите использование информации.
 - **В разделах социальных сетей**:
   - **Мой Круг**. [Я на других сайтах](http://moikrug.ru/master/profile/sites/).
-  - **ВКонтакте**. Контакты → [Личный сайт](http://vk.com/edit?act=contacts) и [Интеграция с сервисами](http://vk.com/edit?act=contacts).
+  - **ВКонтакте**. [Контакты](http://vk.com/edit?act=contacts) → Личный сайт и Интеграция с сервисами.
   - **ya.ru**. Дневники.
   - **Livejournal**. Способы связи (External services).
   - **Одноклассники**. Только через [Яндекс.Паспорт](https://passport.yandex.ru/profile/social).
